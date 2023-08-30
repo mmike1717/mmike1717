@@ -1,7 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&text=Hi👋%20I'm%20Michael&animation=fadeIn&&fontColor=#FFFFFF)
 
+<h3 align="center">Full-Stack Software Engineer</h4>
 
-# 💻 Tech Stack:
+
+- 💬 Ask me about my portfolio website.... no problem here it is 😄 https://mmike1717.github.io/
+- 📫 How to reach me... my email is michael_oyola@outlook.com
+- ⚡ Fun fact: ... Love to travel 🛫 enjoy nature 🍃 when I stay inside I love to watch movies especially Marvel movies
+<div>
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/ironcat.jpg' width='100"'>
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/xtocat.jpg' width='100"'>
+  
+</div>
+  
+- # 💻 Tech Stack:
 <div>
   <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /></div>
   
